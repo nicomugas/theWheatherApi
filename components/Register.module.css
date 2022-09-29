@@ -1,0 +1,16 @@
+.containerform {
+    color: white;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    background-color: black;
+    margin: 0 auto;
+    opacity: 0.6;
+        
+}
+
+input {
+    margin: 5px;
+    
+}
